@@ -18468,7 +18468,10 @@
 			"cats": [
 				1
 			],
-			"html": "../Home/Style.aspx\\?WebSite=Portal&.*Theme=T0-Blue",
+			"html": [
+				"../Home/Style.aspx\\?WebSite=Portal&.*Theme=T0-Blue",
+				"**** Sigma Portal"
+			],
 			"url": "/portal/home"
 		},
 		"Radcom": {
