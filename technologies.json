@@ -18470,7 +18470,7 @@
 			],
 			"html": [
 				"../Home/Style.aspx\\?WebSite=Portal&.*Theme=T0-Blue",
-				"**** Sigma Portal"
+				"Sigma Portal"
 			],
 			"url": "/portal/home"
 		},
