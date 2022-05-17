@@ -18540,6 +18540,7 @@
 				1
 			],
 			"html": [
+				"Powered by <a href=*Dorsa</span>",
 				"<span.*>.*(D|d)orsa(P|p)ortal.*</span>",
 				"/(D|d)orsa(P|p)ax/Data/"
 			]
